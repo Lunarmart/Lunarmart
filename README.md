@@ -9,7 +9,7 @@
   <strong>Donate Litecoin:</strong> <code>Lc8BMFu5fnCNVLuyFi5Va6WjL6MFEBX9oG</code>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1188712861510422549)](https://discord.com/users/1188712861510422549)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1188712861510422549)](https://discord.com/users/536006636360433669)
 ## Visitors:
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=lunarmart&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
@@ -40,4 +40,8 @@
 
 ---
 [![]([https://visitcount.itsvg.in/api?id=lunarmart&icon=0&color=0)](https://visitcount.itsvg.in](https://profile-counter.glitch.me/lunarmart/count.svg)https://profile-counter.glitch.me/lunarmart/count.svg)
+
+
+
+
 
